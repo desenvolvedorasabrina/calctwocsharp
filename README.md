@@ -1,4 +1,4 @@
-# calculateAverageOfTwoValues - Documentação
+# calctwocsharp | Documentation
  
 ## Descrição
 
