@@ -1,24 +1,24 @@
 # calctwocsharp | Documentation
  
-## Descrição
+## Description
 
 Função que calcula a média de dois valores passados como parâmetro
 
-## Parâmetros
+## Params
 
 - n1: Primeiro valor
 - n2: Segundo valor
 
-## Retorno
+## Retorn
 
 - Média dos valores como parâmetro
 
-## Exemplo em C#
+## Example in C#
 
 ```csharp
 var media = Media(10, 5)
 ```
 
-## Autor
+## Author
 
 - Sabrina Santos
