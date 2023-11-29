@@ -9,7 +9,7 @@ Função que calcula a média de dois valores passados como parâmetro
 - n1: Primeiro valor
 - n2: Segundo valor
 
-## Retorn
+## Return
 
 - Média dos valores como parâmetro
 
