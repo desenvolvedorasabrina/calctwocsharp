@@ -20,5 +20,4 @@ var media = Media(10, 5)
 ```
 
 ## Author
-
-- Sabrina Santos
+- Feito com ❤️ por Sabrina M. Dos Santos 🚀
